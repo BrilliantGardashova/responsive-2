@@ -1,0 +1,20 @@
+@import "./mixins";
+
+#main{
+    background-color: #2A7CC7;
+    display:flex ;
+    justify-content:center;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    color: #fff;
+    font-size: 25px;
+    .section{
+        .foto{
+            border-radius: 55%;
+        }
+    
+    }
+    
+}
